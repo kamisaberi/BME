@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44a880d6-6cea-4396-9c38-9ed3d427126b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W0L6tWjX3SYhQVzaOYqVBC7YGF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\base" />
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\interface\database\rdbms\mysql\scripts" />
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\to_delete" />
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\resources\templates" />
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\resources\database" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\config" />
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\interface\database\rdbms\mysql\scripts" />
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\base" />
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\models" />
+      <recent name="E:\COMPANY\ARNAHIT\BME\source\include" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.install">
+    <configuration name="install" type="PythonConfigurationType" factoryName="Python">
+      <module name="source" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\COMPANY\ARNAHIT\BME\source\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/install.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="source" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\COMPANY\ARNAHIT\BME\source\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.install" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44a880d6-6cea-4396-9c38-9ed3d427126b" name="Default Changelist" comment="" />
+      <created>1578281393596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578281393596</updated>
+      <workItem from="1578281415058" duration="244000" />
+      <workItem from="1578281691159" duration="34621000" />
+      <workItem from="1578433101262" duration="2138000" />
+      <workItem from="1578483646475" duration="13248000" />
+      <workItem from="1578919233234" duration="51067000" />
+      <workItem from="1579254138939" duration="48201000" />
+      <workItem from="1579519195793" duration="6649000" />
+      <workItem from="1579650561654" duration="288000" />
+      <workItem from="1579695441972" duration="313000" />
+      <workItem from="1579697094098" duration="167000" />
+      <workItem from="1579697478025" duration="242000" />
+      <workItem from="1579697739955" duration="1560000" />
+      <workItem from="1579699674648" duration="539000" />
+      <workItem from="1579700868844" duration="49000" />
+      <workItem from="1579700927564" duration="384000" />
+      <workItem from="1579728392235" duration="7421000" />
+      <workItem from="1579942797440" duration="2034000" />
+      <workItem from="1579982879452" duration="2957000" />
+      <workItem from="1580169452581" duration="24995000" />
+      <workItem from="1580312594483" duration="41366000" />
+      <workItem from="1580489529793" duration="20374000" />
+      <workItem from="1580597765771" duration="44935000" />
+      <workItem from="1580955111993" duration="7943000" />
+      <workItem from="1581126824565" duration="1480000" />
+      <workItem from="1581198436894" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580610343212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580610343212" />
+    <state x="721" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579697748119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579697748119" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580175575781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580175575781" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1580610339367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580610339367" />
+    <state width="1876" height="243" key="GridCell.Tab.0.bottom" timestamp="1580866042646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580866042646" />
+    <state width="1876" height="243" key="GridCell.Tab.0.center" timestamp="1580866042639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580866042639" />
+    <state width="1876" height="243" key="GridCell.Tab.0.left" timestamp="1580866042631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580866042631" />
+    <state width="1876" height="243" key="GridCell.Tab.0.right" timestamp="1580866042640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580866042640" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1578539189056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578539189056" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1578539189056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578539189056" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1578539189055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578539189055" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1578539189056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578539189056" />
+    <state x="463" y="150" key="SettingsEditor" timestamp="1580321418879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580321418879" />
+    <state x="611" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580771898191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="611" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580771898191" />
+    <state x="667" y="154" width="585" height="732" key="find.popup" timestamp="1579747980935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="154" width="585" height="732" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579747980935" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1579695623270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579695623270" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/source$run.coverage" NAME="main Coverage Results" MODIFIED="1578300495932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/source$main.coverage" NAME="main Coverage Results" MODIFIED="1580774100614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/source$install.coverage" NAME="install Coverage Results" MODIFIED="1580774067235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

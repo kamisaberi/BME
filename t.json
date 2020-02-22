@@ -1,0 +1,77 @@
+{
+  "Hotel": [
+    {
+      "id": 1,
+      "title": "sabouri",
+      "properties": {
+        "address": "rasht",
+        "description": "hotel 3 stars"
+      }
+    },
+    {
+      "id": 2,
+      "title": "shop5",
+      "properties": {
+        "address": "langroud",
+        "description": "2 stars rated hotel"
+      }
+    },
+    {
+      "id": 3,
+      "title": "respina",
+      "properties": {
+        "address": "lahijan",
+        "description": "5 stars ocation hotel"
+      }
+    }
+  ],
+  "Room": [
+    {
+      "id": 1,
+      "title": "room 1"
+    },
+    {
+      "id": 2,
+      "title": "room 2"
+    },
+    {
+      "id": 3,
+      "title": "room 3"
+    },
+    {
+      "id": 4,
+      "title": "room 101"
+    },
+    {
+      "id": 5,
+      "title": "room 201"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "username": "a",
+      "password": "1"
+    },
+    {
+      "id": 2,
+      "username": "b",
+      "password": "2"
+    },
+    {
+      "id": 3,
+      "username": "c",
+      "password": "3"
+    },
+    {
+      "id": 4,
+      "username": "d",
+      "password": "4"
+    },
+    {
+      "id": 5,
+      "username": "e",
+      "password": "5"
+    }
+  ]
+}

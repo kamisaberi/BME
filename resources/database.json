@@ -1,0 +1,6 @@
+{
+  "host": "localhost",
+  "user": "root",
+  "passwd": "",
+  "database": "bme_db"
+}
